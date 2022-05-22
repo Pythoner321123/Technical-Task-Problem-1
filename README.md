@@ -8,7 +8,7 @@ Data collection should be performed all the time the process is running. Path to
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My algorithm consists of a program and a checker that checks on the RAM and CPU usage and at the same time saves every print in a file named stats.txt. The checker report prints every second or so.
+My algorithm consists of a program and a checker that checks on the RAM and CPU usage and at the same time saves every print in a file named stats.txt. The checker report prints every second or so. The program is designed for Windows only.
 The flappy bird software was developed by TimoWilken and published under a free MIT licence.
 
 To jump you simply have to press space, up arrow or just click.
